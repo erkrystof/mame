@@ -1,6 +1,5 @@
 *~
-/*
-/*/
+/build
 !/3rdparty/
 !/artwork/
 !/docs/
@@ -26,3 +25,6 @@ src/regtests/chdman/temp
 src/regtests/jedutil/output
 *.pyc
 /CMakeLists.txt 
+/.settings/
+/.cproject
+/.project
